@@ -1,6 +1,6 @@
 homepage:
-   path: /
-   controller: App\Controller\HomeController::index
+    path: /
+    controller: App\Controller\HomeController::index
 
 article_show:
     path: /{id}
